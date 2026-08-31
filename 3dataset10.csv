@@ -1,0 +1,7 @@
+[
+    {"city": "Bangkok", "temperature": 32},
+    {"city": "Tokyo", "temperature": 25},
+    {"city": "New York", "temperature": 20},
+    {"city": "London", "temperature": 18},
+    {"city": "Sydney", "temperature": 22}
+]

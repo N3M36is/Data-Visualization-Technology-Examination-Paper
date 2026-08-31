@@ -1,0 +1,4 @@
+[
+  { "sales_channel": "Online", "sales": 3500 },
+  { "sales_channel": "In-store", "sales": 4500 }
+]

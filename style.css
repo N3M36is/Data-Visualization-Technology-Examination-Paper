@@ -1,0 +1,81 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    line-height: 1.8;
+    margin: 40px;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    color: #1f4e79;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #1f4e79;
+    border-bottom: 2px solid #1f4e79;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #2e75b6;
+}
+
+.section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #000;
+}
+
+/* ปุ่มเลือกหน้า */
+
+.menu {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.menu button {
+    background-color: #1f4e79;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.menu button:hover {
+    background-color: #2e75b6;
+}
+#chart,
+#lineChart
+#pieChart {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.bar {
+    cursor: pointer;
+}
+
+.grid path {
+    stroke-width: 0;
+}
